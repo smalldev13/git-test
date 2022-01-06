@@ -1,3 +1,3 @@
 # git-test
 First repo!
-Good news, everyone!
+Hello Odin this is smalldev13!
